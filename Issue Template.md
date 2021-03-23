@@ -1,10 +1,12 @@
-**What problem you experience:**
+## **What problem you experience:**
+
 This and that don't work 
 
-**What error messages you get**
+## **What error messages you get:**
+
 When i do this i get this message
 
-**What steps did you make and what was the outcome:**
+## **What steps did you make and what was the outcome:**
 * 1... -> Nothing changed
 * 2... -> Solved partialy
 * 3... -> Something
@@ -14,7 +16,7 @@ When i do this i get this message
 ## Docker Templates:
 **Right Click Docker -> Click 🔧 `Edit`**
 ### Name
-![name.jpg](:/ff9d98d0b6c04409a3f96455ba72eb3d)
+![name.jpg](/name.jpg)
 
 Nextcloud docker name: 
 Database docker name:
@@ -22,14 +24,14 @@ Redis docker name:
 Swag docker name:
 
 ### Repository
-![repository.jpg](:/abcd2412f8334d698a6a2cd6d90b48dd)
+![repository.jpg](/repository.jpg)
 
 Nextcloud docker repository: 
 Database docker repository:
 Redis docker repository:
 Swag docker repository:
 ## Network
-![network_type.jpg](:/bbc05eaaff144a88bff8e0e7abb5b963)
+![network_type.jpg](/network_type.jpg)
 
 Nextcloud docker network type: 
 Database docker network type:
